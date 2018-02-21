@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-wp-customize-background-image-control.php" server="ftp.stinnia.com//learnanart/" local="131635156325901708" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-background-image-setting.php" server="ftp.stinnia.com//learnanart/" local="131635156326281968" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-background-position-control.php" server="ftp.stinnia.com//learnanart/" local="131635156325361314" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-color-control.php" server="ftp.stinnia.com//learnanart/" local="131635156326802338" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-cropped-image-control.php" server="ftp.stinnia.com//learnanart/" local="131635156328153308" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-code-editor-control.php" server="ftp.stinnia.com//learnanart/" local="131635156324720889" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-custom-css-setting.php" server="ftp.stinnia.com//learnanart/" local="131635156326942437" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-date-time-control.php" server="ftp.stinnia.com//learnanart/" local="131635156326662248" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-filter-setting.php" server="ftp.stinnia.com//learnanart/" local="131635156325111136" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-header-image-control.php" server="ftp.stinnia.com//learnanart/" local="131635156324850961" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-header-image-setting.php" server="ftp.stinnia.com//learnanart/" local="131635156327062523" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-image-control.php" server="ftp.stinnia.com//learnanart/" local="131635156326412060" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-media-control.php" server="ftp.stinnia.com//learnanart/" local="131635156328273404" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-control.php" server="ftp.stinnia.com//learnanart/" local="131635156328033223" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-item-control.php" server="ftp.stinnia.com//learnanart/" local="131635156324460673" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-auto-add-control.php" server="ftp.stinnia.com//learnanart/" local="131635156326161893" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-item-setting.php" server="ftp.stinnia.com//learnanart/" local="131635156324330591" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-locations-control.php" server="ftp.stinnia.com//learnanart/" local="131635156327342732" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-location-control.php" server="ftp.stinnia.com//learnanart/" local="131635156326542153" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-name-control.php" server="ftp.stinnia.com//learnanart/" local="131635156327773038" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menus-panel.php" server="ftp.stinnia.com//learnanart/" local="131635156325641523" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-section.php" server="ftp.stinnia.com//learnanart/" local="131635156324080413" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-nav-menu-setting.php" server="ftp.stinnia.com//learnanart/" local="131635156328403476" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-new-menu-control.php" server="ftp.stinnia.com//learnanart/" local="131635156325511420" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-new-menu-section.php" server="ftp.stinnia.com//learnanart/" local="131635156327612914" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-partial.php" server="ftp.stinnia.com//learnanart/" local="131635156327192615" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-selective-refresh.php" server="ftp.stinnia.com//learnanart/" local="131635156324590766" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-site-icon-control.php" server="ftp.stinnia.com//learnanart/" local="131635156326021793" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-sidebar-section.php" server="ftp.stinnia.com//learnanart/" local="131635156327903151" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-theme-control.php" server="ftp.stinnia.com//learnanart/" local="131635156327492849" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-themes-panel.php" server="ftp.stinnia.com//learnanart/" local="131635156324991050" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-upload-control.php" server="ftp.stinnia.com//learnanart/" local="131635156324200488" remote="131635123800000000" Dst="1" />
+<file name="class-wp-customize-themes-section.php" server="ftp.stinnia.com//learnanart/" local="131635156325771605" remote="131635123800000000" Dst="1" />
+<file name="class-wp-widget-area-customize-control.php" server="ftp.stinnia.com//learnanart/" local="131635156325241238" remote="131635123800000000" Dst="1" />
+<file name="class-wp-widget-form-customize-control.php" server="ftp.stinnia.com//learnanart/" local="131635156328533568" remote="131635123800000000" Dst="1" />
+</dwsync>
